@@ -1,0 +1,112 @@
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.csproj.AssemblyReference.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.AssemblyInfoInputs.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.AssemblyInfo.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.csproj.CoreCompileInputs.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorAssemblyInfo.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorAssemblyInfo.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\staticwebassets\ReactDemo.StaticWebAssets.Manifest.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\staticwebassets\ReactDemo.StaticWebAssets.xml
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReactDemo.styles.css
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.TagHelpers.input.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.TagHelpers.output.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.pdb
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.exe
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.deps.json
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.runtimeconfig.json
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.runtimeconfig.dev.json
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.pdb
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.Views.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.Views.pdb
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.V8.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JSPool.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ClearScript.Core.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ClearScript.V8.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.AspNet.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.Core.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ClearScriptV8.win-x64.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorCoreGenerate.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorTargetAssemblyInfo.cache
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorTargetAssemblyInfo.cs
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.Views.pdb
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.csproj.CopyComplete
+D:\Tutorials\Asp.net Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.genruntimeconfig.cache
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.exe
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.deps.json
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.runtimeconfig.json
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.runtimeconfig.dev.json
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.pdb
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.Views.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ReactDemo.Views.pdb
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.V8.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\JSPool.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ClearScript.Core.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ClearScript.V8.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.AspNet.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\React.Core.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ClearScriptV8.win-x64.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Tutorials\ReactDemo\ReactDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.AssemblyInfoInputs.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.AssemblyInfo.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.csproj.CoreCompileInputs.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorAssemblyInfo.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorAssemblyInfo.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\staticwebassets\ReactDemo.StaticWebAssets.Manifest.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.TagHelpers.input.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.TagHelpers.output.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorCoreGenerate.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorTargetAssemblyInfo.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.RazorTargetAssemblyInfo.cs
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.Views.pdb
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.csproj.CopyComplete
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.dll
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.pdb
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.genruntimeconfig.cache
+D:\Tutorials\ReactDemo\ReactDemo\obj\Debug\netcoreapp3.1\ReactDemo.GeneratedMSBuildEditorConfig.editorconfig
